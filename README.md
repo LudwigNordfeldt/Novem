@@ -1,1 +1,3 @@
 # Novem
+The object in Novem is to score more points than your opponent. There are numbered tiles of wood on the board in three rows and three columns - where one player controls the rows and the other the columns. In secrecy the players choose a row and column, and the attacking player takes the tile in the intersection between the selected row and column. Then the other player become the attacker, and so on. At the end of the game the player whom have collected the tiles with the highest numbers the most points
+![94595402](https://user-images.githubusercontent.com/80590901/210578439-704ee805-74e1-4b74-975f-f5edec0b954a.jpg)
